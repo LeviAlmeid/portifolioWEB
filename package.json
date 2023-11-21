@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github-username.github.io/portofolioWEB",
+  "homepage": "https://github-LeviAlmeid.github.io/portofolioWEB",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
