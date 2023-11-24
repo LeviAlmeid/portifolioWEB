@@ -3,8 +3,7 @@
 
 .projects-container{
     display: flex;
-    justify-content: center;
-    align-items: center;
+
     max-width: 50rem;
 }
 
@@ -15,7 +14,7 @@
     text-align: center;
     max-width: 45rem;
     
-    
+
 
     .item{
         @include mixins.center;
@@ -40,10 +39,23 @@
     }
     .info{
 
+        display: flex;
+        flex-direction: column;
         gap: .5rem;
+
         span{
             @include mixins.center;
             color: variables.$text-color;
+
+            
+        }
+
+        .name{
+            font-size: 1.3rem;
+        }
+        a{
+            text-decoration: none;
+            color: variables.$text-color-secondary;
         }
     }
     

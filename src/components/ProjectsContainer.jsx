@@ -55,8 +55,9 @@ const ProjectsContainer = () => {
                                                 <img src="https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png" alt="projeto" />
                                             </div>
                                             <div className="info">
-                                            <span className="name">{repo.name}</span>
-                                            <span className="desc">descrição projeto</span>
+                                                <span className="name">{repo.name}</span>
+                                                <span className="desc">{repo.description}</span>
+                                                <a href={repo.html_url}  target="_blank">Acessar projeto</a>
                                             </div>
                                         </div>
                                     ))
@@ -74,16 +75,10 @@ const ProjectsContainer = () => {
                     </div>
  
                 ) : (
-                    <CircularProgress />
+                    <CircularProgress className='loadingCarrousel' />
                 )
             }
 
-
-
-
-            <a href="#">
-                Ver Projetos
-            </a>
         </section>
     )
 }
