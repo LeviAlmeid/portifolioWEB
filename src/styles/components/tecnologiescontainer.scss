@@ -8,6 +8,7 @@
         display: flex;
         flex-wrap: wrap;
         gap: 1.5rem;
+        @include mixins.center;
 
         .tecnologies-card{
             @include mixins.center;
