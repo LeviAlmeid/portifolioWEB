@@ -42,7 +42,7 @@ const ProjectsContainer = () => {
         <section className="projects-container">
             <h2>Projetos</h2>
             {console.log(meusProjetosFavoritados)}
-            {
+            { 
                 
                 meusProjetosFavoritados.length > 0 ? (
                     <div>
