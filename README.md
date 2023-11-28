@@ -10,8 +10,8 @@
 ### Índice
 Você pode utilizar para ir até o tópico destinado.
 
-- [Descrição](#description)
-- [Como rodar](#how-to-use)
+- [Descrição](#Descrição)
+- [Como utilizar](#Como-Utilizar)
 - [Author Info](#author-info)
 
 ---
@@ -33,9 +33,6 @@ Aplicação web utilizando React para um portfólio profissional que apresenta i
 ---
 
 ## Como Utilizar
-
-<!-- GETTING STARTED -->
-## Getting Started
 
 ### Prerequisites
 
