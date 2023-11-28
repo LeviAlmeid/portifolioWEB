@@ -69,4 +69,4 @@ Aplicação web utilizando React para um portfólio profissional que apresenta i
 
 Levi Almeida - levi02almeida@gmail.com
 
-[Back To The Top](#Portifolio-WEB)
+[Voltar ao topo](#Portifolio-WEB)
