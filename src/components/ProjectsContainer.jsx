@@ -52,7 +52,7 @@ const ProjectsContainer = () => {
                                     meusProjetosFavoritados.map((repo) => (
                                         <div className="item">
                                             <div className="image">
-                                                <img src="https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png" alt="projeto" />
+                                                <img src="src/assets/ts.png" alt="projeto" />
                                             </div>
                                             <div className="info">
                                                 <span className="name">{repo.name}</span>
