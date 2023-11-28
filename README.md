@@ -1,4 +1,4 @@
-# Portifolio WEB
+## Portifolio WEB
 
 ![image](https://github.com/LeviAlmeid/portifolioWEB/assets/73829965/cd919e1b-1061-41ca-b47f-c09a703b34f6)
 
